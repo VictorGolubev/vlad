@@ -1,0 +1,10 @@
+C:\Users\Victor\source\repos\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\Victor\source\repos\Kurs\bin\Debug\Kurs.exe
+C:\Users\Victor\source\repos\Kurs\bin\Debug\Kurs.pdb
+C:\Users\Victor\source\repos\Kurs\obj\Debug\Kurs.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\Kurs\obj\Debug\Kurs.Form1.resources
+C:\Users\Victor\source\repos\Kurs\obj\Debug\Kurs.Properties.Resources.resources
+C:\Users\Victor\source\repos\Kurs\obj\Debug\Kurs.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Kurs\obj\Debug\Kurs.exe
+C:\Users\Victor\source\repos\Kurs\obj\Debug\Kurs.pdb
